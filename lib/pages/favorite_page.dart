@@ -50,7 +50,7 @@ class _FavoritePageState extends State<FavoritePage> {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
 
                   children: [
-                    const Icon(Icons.favorite, color: Colors.blue),
+                    const Icon(Icons.favorite, color: Colors.black38),
                     const SizedBox(width: 10,),
                     Expanded(
                       
