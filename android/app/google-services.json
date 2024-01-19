@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "162493648399",
+    "project_id": "kofhotel-15627",
+    "storage_bucket": "kofhotel-15627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162493648399:android:5e38ea9931b0d4541b5d7a",
+        "android_client_info": {
+          "package_name": "com.example.kof_hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162493648399-phs1t9d4d7gt06tq59tv0b6dtiif0qmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnOXm16mNfPrtRFN81g5xxlyxDyzaiyFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162493648399-phs1t9d4d7gt06tq59tv0b6dtiif0qmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162493648399:android:4c088b4d1e9cf0811b5d7a",
+        "android_client_info": {
+          "package_name": "com.example.kof_recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162493648399-phs1t9d4d7gt06tq59tv0b6dtiif0qmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnOXm16mNfPrtRFN81g5xxlyxDyzaiyFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162493648399-phs1t9d4d7gt06tq59tv0b6dtiif0qmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
